@@ -1,7 +1,8 @@
 # School_District_Analysis
 
 ## Project Overview
-The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
+We have asked to run the school district analysis, after some irregularities have been reported. The irregularities pertain to reading and math scores for Thomas High School.
+The procedures that we followed to re-run our analysis consisted of updating the dataset with the correct math and reading scores for the school in question.
 
 ## Resources
 - Data Source: schools_complete.csv and students_complete_csv
@@ -9,11 +10,11 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ## Summary
 The analysis of the election show that:
-- Thomas High School is doing well and the scores in reading and math attest to that.
-
+- Thomas High School (THS) is doing well and the scores in reading and math attest to that.
+THS shows up as a top High performing School performing school. It shows passing scores of 93.54 and 96.96 for Reading and Math respectively. These results have been achieved with spending per student estimated between 630 and 640 dollars.
  
 ##  Challenge Overview
-
+I feel that my performance in this challenge is 'shaky'. I need to revisit the material and redo this challenge.
 
 ##  Challenge summary
 
